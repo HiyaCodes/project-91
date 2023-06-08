@@ -1,0 +1,50 @@
+body
+{
+	background: plum;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		margin: 30px;
+		float: none;
+		border-radius: 15px;
+		display: flex;
+		flex-direction: column;
+		height: auto;
+		width: auto;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.button {
+background: lightblue;
+}
+#logo{
+	width: 50px;
+	height:50px;
+}
